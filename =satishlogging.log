@@ -1,0 +1,11 @@
+2024-01-09T19:14:10.999+05:30  INFO 12292 --- [main] com.satish.SatishApplication             : Starting SatishApplication using Java 19.0.2 with PID 12292 (C:\Users\satis\eclipse-workspace\satish\target\classes started by satis in C:\Users\satis\eclipse-workspace\satish)
+2024-01-09T19:14:11.002+05:30  INFO 12292 --- [main] com.satish.SatishApplication             : No active profile set, falling back to 1 default profile: "default"
+2024-01-09T19:14:12.504+05:30  INFO 12292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2024-01-09T19:14:12.525+05:30  INFO 12292 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-09T19:14:12.526+05:30  INFO 12292 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2024-01-09T19:14:12.683+05:30  INFO 12292 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-09T19:14:12.684+05:30  INFO 12292 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1582 ms
+2024-01-09T19:14:13.280+05:30  INFO 12292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2024-01-09T19:14:13.294+05:30  INFO 12292 --- [main] com.satish.SatishApplication             : Started SatishApplication in 2.988 seconds (process running for 4.159)
+2024-01-09T19:16:29.245+05:30  INFO 12292 --- [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2024-01-09T19:16:29.266+05:30  INFO 12292 --- [RMI TCP Connection(6)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
