@@ -14,10 +14,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @org.springframework.web.bind.annotation.RestController
 @CrossOrigin(origins = { "*" })
 @RequestMapping("/satish")
-public class RestController {
+public class MyRestController {
   List<String> li=new ArrayList<String> ();
   
-	Logger log=LoggerFactory.getLogger(RestController.class);
+	Logger log=LoggerFactory.getLogger(MyRestController.class);
 	
 	@GetMapping("/hello")
 	public String hello() {
